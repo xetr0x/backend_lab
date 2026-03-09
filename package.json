@@ -1,0 +1,22 @@
+{
+  "name": "backend_lab",
+  "version": "1.0.0",
+  "description": "backend lab for the 13th of mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xetr0x/backend_lab.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Kevin W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xetr0x/backend_lab/issues"
+  },
+  "homepage": "https://github.com/xetr0x/backend_lab#readme"
+}
