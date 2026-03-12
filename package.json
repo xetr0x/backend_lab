@@ -2,9 +2,9 @@
   "name": "backend_lab",
   "version": "1.0.0",
   "description": "backend lab for the 13th of mars",
-  "main": "server.js",
+  "main": "Server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node Server.js"
   },
   "repository": {
     "type": "git",
