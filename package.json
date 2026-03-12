@@ -4,7 +4,7 @@
   "description": "backend lab for the 13th of mars",
   "main": "Server.js",
   "scripts": {
-    "run": "node Server.js"
+    "start": "node Server.mjs"
   },
   "repository": {
     "type": "git",
